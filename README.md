@@ -1,6 +1,6 @@
+<h1 align="center">Hi 👋, I'm Mohammed EL KHADIRI</h1>
 ## 🚀 **Mobile Developer** 🚀
 
-<h1 align="center">Hi 👋, I'm Mohammed EL KHADIRI</h1>
 <h3 align="center">As a dedicated mobile app developer, my curiosity drives me to continually build my skills and work towards becoming a true software engineering expert.</h3>
 
 
