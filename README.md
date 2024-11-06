@@ -2,7 +2,6 @@
 <h3 align="center">As a dedicated mobile app developer, my curiosity drives me to continually build my skills and work towards becoming a true software engineering expert.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=med-khadiri&label=Profile%20views&color=0e75b6&style=flat" alt="med-khadiri" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
